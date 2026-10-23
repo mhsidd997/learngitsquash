@@ -1,0 +1,4 @@
+This is Test-A file.
+
+We are going to add another Test-A-1 file to this directory. After commiting this work, we will create a new branch called "feature-branch" and make some changes to the Test-A-1 file. 
+Once the changes are made, we will commit them and then merge the feature-branch back into the main branch.
