@@ -1,0 +1,3 @@
+This is Test-A-1 file.
+
+Now the master branch is ahead as Test-B was merged to master branch.
