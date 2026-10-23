@@ -4,3 +4,5 @@ This is first file for initial commit.
 We are adding this file to the repository for the first time.
 
 Let's make sure we have a good commit message for this initial commit.
+
+We are modifying this file to include more information about the initial commit and the purpose of this repository. (Test-B)
