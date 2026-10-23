@@ -1,0 +1,6 @@
+
+This is first file for initial commit.
+
+We are adding this file to the repository for the first time.
+
+Let's make sure we have a good commit message for this initial commit.
